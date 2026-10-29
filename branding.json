@@ -1,0 +1,909 @@
+{
+  "tone": "minimal",
+  "fontBody": "IBM Plex Sans",
+  "logoText": "Atlas Tareas",
+  "brandbook": {
+    "motif": "Una guía vertical identifica la tarea activa y continúa sin interrupción por el borde izquierdo de su editor expandido. Señala pertenencia y foco de trabajo, no progreso ni métricas.",
+    "pages": [
+      {
+        "id": "brand-page-1",
+        "title": "Brand guidelines",
+        "layout": "cover",
+        "summary": "Herramienta personal en español que abre directamente al trabajo: una lista compacta, edición contextual y persistencia fiable sin cuentas ni configuración compleja.",
+        "examples": [
+          {
+            "text": "Una lista clara para tus tareas personales.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Align the supported symbol, Atlas Tareas and Brand guidelines to one left edge. Use no photography or promotional badge.",
+            "title": "Cover arrangement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-2",
+        "title": "The Brand",
+        "layout": "divider",
+        "summary": "Use this divider to introduce a working identity, not a sales story. Pair a short heading with the supported mark on #276044; reserve the remaining space for calm, open composition.",
+        "examples": [
+          {
+            "text": "Título, estado y prioridad. El trabajo empieza en la lista.",
+            "title": "Directo a tus tareas"
+          },
+          {
+            "text": "Use white copy on green. Keep the symbol green on its pale support rather than recoloring its three strokes.",
+            "title": "Divider treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-3",
+        "title": "Welcome",
+        "layout": "content",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "Apply the system to one Spanish task screen: a compact list, contextual editing and clear feedback. Preserve the exact name Atlas Tareas.",
+            "title": "Guide scope"
+          },
+          {
+            "text": "The plan includes Turso persistence and an anonymous session. It excludes registration, external integrations and commercial pages.",
+            "title": "Product boundary"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-4",
+        "title": "Index",
+        "layout": "content",
+        "summary": "Keep the guide in this sequence: intent, identity, typography, color, visual language and applications. Use page numbers as navigation, not decorative counters.",
+        "examples": [
+          {
+            "text": "Cover and introduction, project intent, voice, logo construction, clear space and misuse.",
+            "title": "01–15 · Foundations"
+          },
+          {
+            "text": "Typography, hierarchy, layouts, color, graphic elements, icons and an image-free moodboard.",
+            "title": "16–29 · Visual system"
+          },
+          {
+            "text": "Digital and print design studies, task controls, website, support and closing credits.",
+            "title": "30–49 · Applications"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-5",
+        "title": "Defining",
+        "layout": "content",
+        "summary": "Define Atlas Tareas through its working screen. Prefer a compact list for comparing tasks; avoid empty Kanban columns, date-led agendas, hero sections and summary cards.",
+        "examples": [
+          {
+            "text": "Atlas Tareas + Nueva tarea → Buscar tareas + Estado → Tarea, Estado, Prioridad, Acciones.",
+            "title": "Screen sequence"
+          },
+          {
+            "text": "Organizar la carpeta de documentos — Pendiente — Media. Show the full title; add no description, date or tag.",
+            "title": "Content boundary"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-6",
+        "title": "Vision & Mission",
+        "layout": "content",
+        "summary": "Express the supplied product objective rather than inventing a corporate mission. Lead with personal task management and show how the interface keeps editing close to the work.",
+        "examples": [
+          {
+            "text": "Organiza tus tareas en una sola pantalla.",
+            "title": "Project objective"
+          },
+          {
+            "text": "Create, edit and change status in the list context. Do not turn this objective into claims about productivity gains or guaranteed availability.",
+            "title": "Practical expression"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-7",
+        "title": "Brand Values",
+        "layout": "content",
+        "summary": "Treat clarity, compactness and honest feedback as design criteria from the plan, not invented company values. Every criterion must change a visible interface decision.",
+        "examples": [
+          {
+            "text": "Use Editar and Eliminar as named actions. Do not replace them with unexplained symbols.",
+            "title": "Clarity"
+          },
+          {
+            "text": "Show Guardando… while waiting and Resultado sin confirmar when the outcome is unknown. Reserve Tarea guardada for confirmation.",
+            "title": "Honest feedback"
+          },
+          {
+            "text": "One row per task, one contextual editor and one filter band. Do not repeat the same task in a summary card.",
+            "title": "Compactness"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-8",
+        "title": "Tone of Voice",
+        "layout": "content",
+        "summary": "Write interface copy in Spanish with short verbs and calm explanations. Name the result and next action; avoid celebration, blame and technical detail that does not help recovery.",
+        "examples": [
+          {
+            "text": "Nueva tarea · Crear tarea · Guardar cambios · Cancelar.",
+            "title": "Actions"
+          },
+          {
+            "text": "Resultado sin confirmar. Recupera el resultado antes de enviar más cambios para esta tarea.",
+            "title": "Uncertain outcome"
+          },
+          {
+            "text": "Escribe un título de entre 1 y 160 caracteres.",
+            "title": "Validation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-9",
+        "title": "Logo",
+        "layout": "divider",
+        "summary": "Introduce the logo with one large lockup on white. The symbol is a compact stepped form; the name remains real typography, never embedded into the SVG.",
+        "examples": [
+          {
+            "text": "Use IBM Plex Sans Semibold beside the three-stroke symbol. Let the name carry recognition and the symbol provide a compact anchor.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Show one primary lockup, not a wall of alternatives. Keep captions in Work Ink and away from the clear space.",
+            "title": "Section composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-10",
+        "title": "Logo overview",
+        "layout": "logo",
+        "summary": "Use the horizontal lockup in the header and the symbol alone for application icons. Do not create stacked initials, circular badges or alternative marks.",
+        "examples": [
+          {
+            "text": "Place a 32 px symbol beside Atlas Tareas with an 8 px gap. Vertically center it with the 28/32 name.",
+            "title": "Header lockup"
+          },
+          {
+            "text": "At 390 px, use a 24 px name and a 24–28 px symbol. Keep Nueva tarea visible without squeezing the identity.",
+            "title": "Small-screen lockup"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-11",
+        "title": "Primary logo",
+        "layout": "logo",
+        "summary": "Render Atlas Tareas in IBM Plex Sans 600 with natural letter spacing. Use Work Ink for the name and Steady Green for the symbol; never stretch either element to fill a container.",
+        "examples": [
+          {
+            "text": "Atlas Tareas in #232823 with the #276044 symbol on #FFFFFF or #F5F5F2.",
+            "title": "Light surface"
+          },
+          {
+            "text": "Use a white name on #232823 and retain the green symbol inside a #F5F5F2 support square.",
+            "title": "Dark surface"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-12",
+        "title": "Logo Safezone",
+        "layout": "logo",
+        "summary": "Keep external clear space of at least one quarter of the symbol canvas width around the lockup. Measure from the complete lockup, not only the visible strokes.",
+        "examples": [
+          {
+            "text": "For a 32 px symbol canvas, leave at least 8 px around the lockup. Keep the Nueva tarea button outside this zone.",
+            "title": "Header spacing"
+          },
+          {
+            "text": "For a 16 mm symbol canvas, reserve 4 mm of clear space. Do not let rules, labels or page numbers enter it.",
+            "title": "Print spacing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-13",
+        "title": "Color combinations",
+        "layout": "colors",
+        "summary": "Keep the mark green on white or pale paper. Colored applications use a canvas-color support surface so all three strokes remain visible without changing their geometry or fill.",
+        "examples": [
+          {
+            "text": "#276044 symbol + #232823 name on #FFFFFF. Use this pairing for the task header and stationery.",
+            "title": "Everyday pairing"
+          },
+          {
+            "text": "On #276044, place the symbol on #F5F5F2 and set Atlas Tareas in white. Never place green strokes directly on green.",
+            "title": "Divider pairing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-14",
+        "title": "Brandmark",
+        "layout": "logo",
+        "summary": "Preserve the 160 × 160 geometry: three equal 64 × 12 horizontal strokes, each shifted 24 units right and 30 units up. Their measured rhythm signals ordered work, not a progress chart.",
+        "examples": [
+          {
+            "text": "Stroke origins: (24,104), (48,74), (72,44). All fills are #276044. Keep the square canvas and rectangular ends.",
+            "title": "Exact construction"
+          },
+          {
+            "text": "Use this exact symbol in the Atlas Tareas header, app icon and favicon. Raster versions must retain all three strokes.",
+            "title": "Reuse"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-15",
+        "title": "Logo misuse",
+        "layout": "logo",
+        "summary": "Do not rotate, crop, round, outline or animate individual strokes. Do not replace the mark with a checkmark, mountain, initial or performance indicator.",
+        "examples": [
+          {
+            "text": "Do not label the strokes Pendiente, En curso and Hecha. The symbol identifies Atlas Tareas; it does not report task status.",
+            "title": "Avoid false meaning"
+          },
+          {
+            "text": "No gradients, shadows or stretched lettering. Do not enlarge a cropped stroke into a hero illustration.",
+            "title": "Avoid decoration"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-16",
+        "title": "Typography",
+        "layout": "divider",
+        "summary": "Use IBM Plex Sans throughout. Introduce the type system with real Spanish interface copy, clear alignment and ample line spacing rather than decorative alphabet displays.",
+        "examples": [
+          {
+            "text": "Busca por título, filtra por estado y edita cada tarea en su contexto.",
+            "title": "Tus tareas, en una lista"
+          },
+          {
+            "text": "Use a 28/32 Semibold heading and 16/24 Regular support copy. Align both to the same left edge.",
+            "title": "Section treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-17",
+        "title": "Typography overview",
+        "layout": "type",
+        "summary": "Use one family with a small role-based scale. Keep task titles readable at 16/24, controls at 14/20 and secondary labels at 13/18; compactness comes from layout, not tiny text.",
+        "examples": [
+          {
+            "text": "Pendiente · Media · Ejemplo",
+            "title": "Organizar la carpeta de documentos"
+          },
+          {
+            "text": "Set the task title in Regular, action labels in Medium and editor headings in Semibold. Keep secondary labels at full ink contrast.",
+            "title": "Role pairing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-18",
+        "title": "Primary typeface",
+        "layout": "type",
+        "summary": "IBM Plex Sans is the identity and interface family. Distributable files for 400, 500, 600 and 700 are supplied; package them locally with their license rather than relying on a remote font service.",
+        "examples": [
+          {
+            "text": "En curso · Alta",
+            "title": "Preparar la lista de la compra"
+          },
+          {
+            "text": "Use real accents and punctuation: Título, Prioridad, Aún no hay tareas, ¿Eliminar tarea?",
+            "title": "Spanish character support"
+          },
+          {
+            "text": "If font loading fails, use a system sans-serif fallback. It is a technical fallback, not a replacement identity typeface.",
+            "title": "Fallback behavior"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-19",
+        "title": "Typography",
+        "layout": "type",
+        "summary": "Use upright 400 for content, 500 for controls and 600 for identity and app headings. Reserve 700 for manual section headings; avoid faux bold, italics and all-caps interface labels.",
+        "examples": [
+          {
+            "text": "Revisa el título, el estado y la prioridad antes de guardar.",
+            "title": "Guardar cambios"
+          },
+          {
+            "text": "Atlas Tareas: 600. Task title: 400. Editar: 500. Título field label: 500. Let spacing reinforce these differences.",
+            "title": "Weight contrast"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-20",
+        "title": "Supporting type",
+        "layout": "type",
+        "summary": "Use smaller IBM Plex Sans for provenance, hints and secondary information. Secondary copy reuses #232823; distinguish it through size, position and weight, not reduced opacity.",
+        "examples": [
+          {
+            "text": "Ordenar el escritorio · Hecha · Baja",
+            "title": "Ejemplo"
+          },
+          {
+            "text": "Place Ejemplo beside or beneath the title at 13/18. Keep validation hints directly beneath the relevant field.",
+            "title": "Supporting placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-21",
+        "title": "Hierarchy",
+        "layout": "type",
+        "summary": "Prioritize the app name, task titles and primary action. Use 28/32 for the desktop name, 24/28 on phones, 16/24 for content and 14/20 for buttons inside 44 px targets.",
+        "examples": [
+          {
+            "text": "Título · Estado · Prioridad",
+            "title": "Nueva tarea"
+          },
+          {
+            "text": "Follow the fields with an expanding error region, Crear tarea and secondary Cancelar. Keep actions visually attached to the form.",
+            "title": "Editor hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-22",
+        "title": "Layouts",
+        "layout": "applications",
+        "summary": "At 1440 px, cap the central surface at 1080 px. Use a 4, 8, 12, 16, 24 px spacing scale. At 768 px, stack row content; at 390 px, use 16 px page margins and stacked filters.",
+        "examples": [
+          {
+            "text": "Estado: Todos",
+            "title": "Buscar tareas"
+          },
+          {
+            "text": "Use Tarea, Estado, Prioridad and Acciones columns. Give the title the flexible width and place its editor directly below.",
+            "title": "Desktop structure"
+          },
+          {
+            "text": "Target a 60 px header and 104 px filter band. At 390 × 640, keep Nueva tarea, filters and one complete task visible.",
+            "title": "Phone structure"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-23",
+        "title": "Colors",
+        "layout": "divider",
+        "summary": "Use color to separate canvas, work surface and action. Keep large areas quiet; reserve green for the identity, focus and primary controls rather than coloring every task state.",
+        "examples": [
+          {
+            "text": "Quiet Paper surrounds the white list. Work Ink carries titles. Nueva tarea uses Steady Green with white text.",
+            "title": "Working composition"
+          },
+          {
+            "text": "Use a green field and white heading for this section. Keep the mark on its pale support and avoid decorative color strips.",
+            "title": "Divider composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-24",
+        "title": "Colors overview",
+        "layout": "colors",
+        "summary": "Preserve all six tokens. The five-role palette repeats ink for secondary text; warning and error remain additional semantic colors, not replacements for brand green.",
+        "examples": [
+          {
+            "text": "Quiet Paper #F5F5F2; Clear Desk #FFFFFF; Steady Green #276044; Work Ink and Secondary Ink #232823.",
+            "title": "Core palette"
+          },
+          {
+            "text": "Warning #805100: Resultado sin confirmar. Error #B42332: invalid fields and Eliminar tarea. Pair every color cue with words.",
+            "title": "Feedback palette"
+          },
+          {
+            "text": "Use #232823 or #276044 for essential control boundaries against light surfaces. Borders must reach 3:1 contrast.",
+            "title": "Control contrast"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-25",
+        "title": "Using Tints",
+        "layout": "colors",
+        "summary": "Do not create faint text or essential borders by lowering opacity. Use the supplied pale background as the quiet field; express hover and selection through outlines, weight and explicit labels.",
+        "examples": [
+          {
+            "text": "Ejemplo stays #232823 at 13/18. Do not turn it into low-contrast gray to make the row feel quieter.",
+            "title": "Secondary text"
+          },
+          {
+            "text": "Use a #F5F5F2 field behind the active context and a solid #276044 guide. Keep focus visibly distinct from selection.",
+            "title": "Selected context"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-26",
+        "title": "Graphic Elements",
+        "layout": "divider",
+        "summary": "Use one vertical green guide to connect the active title to its editor. Keep it continuous, aligned and local; it indicates belonging, not completion, elapsed time or progress.",
+        "examples": [
+          {
+            "text": "Editar tarea appears immediately beneath Organizar la carpeta de documentos, sharing the row width and left guide.",
+            "title": "Editing guide"
+          },
+          {
+            "text": "Nueva tarea opens the same visual structure before the list. Expand in 160 ms; with reduced motion, reveal it immediately.",
+            "title": "Creation guide"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-27",
+        "title": "Icons",
+        "layout": "content",
+        "summary": "Use simple 16–20 px interface icons only as support for named controls. Keep 44 px interactive targets, visible focus and task-specific accessible names. The brandmark is not an action icon.",
+        "examples": [
+          {
+            "text": "Visible label: Editar. Accessible name: Editar Organizar la carpeta de documentos.",
+            "title": "Named action"
+          },
+          {
+            "text": "Visible label: Eliminar. Accessible name: Eliminar Ordenar el escritorio. Do not rely on a red trash icon alone.",
+            "title": "Destructive action"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-28",
+        "title": "Photography",
+        "layout": "applications",
+        "summary": "Use no photography, illustration or decorative crops in the app. Task content is the visual focus. Where the guide needs imagery, use clearly framed interface studies with readable text.",
+        "examples": [
+          {
+            "text": "Show Preparar la lista de la compra in its full row instead of a photograph of groceries.",
+            "title": "Use content"
+          },
+          {
+            "text": "An interface study must retain complete titles, labels and feedback. Do not crop away an error to create a cleaner promotional image.",
+            "title": "Preserve readability"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-29",
+        "title": "Moodboard",
+        "layout": "applications",
+        "summary": "Build the moodboard from working details: pale canvas, white surface, green guide, measured spacing and Spanish copy. Exclude lifestyle scenes, dashboards and glossy product mockups.",
+        "examples": [
+          {
+            "text": "Pair the three-stroke mark with Atlas Tareas, a 16/24 task title and the Nueva tarea button.",
+            "title": "Reference cluster"
+          },
+          {
+            "text": "Show a connected editor, a visible focus outline and Resultado sin confirmar beside the affected row.",
+            "title": "Interaction cluster"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-30",
+        "title": "Applications",
+        "layout": "divider",
+        "summary": "Design studies: translate the same restrained system across digital and print formats. These compositions demonstrate identity use; they add no product routes, services or commercial functions.",
+        "examples": [
+          {
+            "text": "Tareas personales. Una pantalla para trabajar con claridad.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Use one dominant heading, one useful content block and one green anchor. Keep white or pale paper as the main surface.",
+            "title": "Shared structure"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-31",
+        "title": "Social media icons",
+        "layout": "logo",
+        "summary": "Design study: center the unchanged mark on a pale square avatar. Leave sufficient internal space for circular platform crops; never add initials or small wordmark text.",
+        "examples": [
+          {
+            "text": "Gestión de tareas personales en español.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Fit the complete 160 × 160 symbol canvas inside the avatar. Use #F5F5F2 behind the green strokes and preview circular cropping.",
+            "title": "Avatar composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-32",
+        "title": "Social media profiles",
+        "layout": "applications",
+        "summary": "Design study: use Atlas Tareas as the display name, the mark as avatar and one short descriptive line. Do not invent account handles, follower counts, endorsements or contact details.",
+        "examples": [
+          {
+            "text": "Una lista compacta para organizar tareas personales.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Use a pale banner with a small left-aligned lockup. Do not create a feature collage or imply that a social account already exists.",
+            "title": "Profile layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-33",
+        "title": "Instagram posts",
+        "layout": "applications",
+        "summary": "Design study: use a single task interaction per square post. Keep the heading outside the interface crop and label the visual as a study; avoid decorative cards and fabricated engagement.",
+        "examples": [
+          {
+            "text": "Título, estado y prioridad junto al editor. Estudio de diseño.",
+            "title": "Cada tarea, en su contexto"
+          },
+          {
+            "text": "Place the headline at top left and one readable row below. Use a green guide to connect the row and editor, not a large ornamental stripe.",
+            "title": "Post composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-34",
+        "title": "Posters",
+        "layout": "applications",
+        "summary": "Design study: organize posters around a short headline, one enlarged task row and the lockup. Use white space instead of photography; include no launch date, address or promotional offer.",
+        "examples": [
+          {
+            "text": "Atlas Tareas · Título, estado y prioridad.",
+            "title": "Una lista. Tus tareas."
+          },
+          {
+            "text": "Set the headline in Semibold, task content in Regular and the lockup at the foot. Keep the task title readable from the intended viewing distance.",
+            "title": "Poster hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-35",
+        "title": "T shirts and totes",
+        "layout": "applications",
+        "summary": "Design study: use a small lockup on pale fabric and a single green mark on the reverse. Preserve the rectangular strokes and clear space; do not introduce merchandise pricing or sales copy.",
+        "examples": [
+          {
+            "text": "Una tarea cada vez.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Use green and ink on natural pale fabric. On dark fabric, place the unchanged green symbol within a pale support square.",
+            "title": "Print treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-36",
+        "title": "Task handoff sleeve",
+        "layout": "applications",
+        "summary": "Design study: adapt the packaging format into a paper sleeve for a printed task specimen. Use the front for identity and the reverse for context; this is not an app export or delivery feature.",
+        "examples": [
+          {
+            "text": "Organizar la carpeta de documentos · Pendiente · Media · Ejemplo",
+            "title": "Una tarea, con contexto"
+          },
+          {
+            "text": "Place the lockup above one task title on pale paper. Keep folds and seams outside the logo clear space and away from the full title.",
+            "title": "Sleeve layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-37",
+        "title": "Workspace entry",
+        "layout": "applications",
+        "summary": "Design study: replace pickup wayfinding with entry guidance for the anonymous workspace. Keep session problems near the list and offer a direct-opening action only when embedded access is blocked.",
+        "examples": [
+          {
+            "text": "Prueba a abrir Atlas Tareas directamente. El espacio puede ser distinto al de la vista integrada.",
+            "title": "No se pudo iniciar la sesión"
+          },
+          {
+            "text": "Use Abrir directamente as the explicit recovery action. Do not imply registration or synchronization between browser contexts.",
+            "title": "Entry action"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-38",
+        "title": "Task controls",
+        "layout": "applications",
+        "summary": "Design study: keep creation and editing in one in-flow form. Order fields Título, Estado, Prioridad, errors and actions. Use 44 px targets, visible focus and no fixed mobile action dock.",
+        "examples": [
+          {
+            "text": "Título · Estado: Pendiente · Prioridad: Media",
+            "title": "Crear tarea"
+          },
+          {
+            "text": "Keep invalid submission available. Show Escribe un título de entre 1 y 160 caracteres, preserve values and focus the invalid field.",
+            "title": "Validation treatment"
+          },
+          {
+            "text": "¿Eliminar «Ordenar el escritorio»? Show Cancelar first and Eliminar tarea second. Start focus on Cancelar; retain the row until confirmed.",
+            "title": "Confirm deletion"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-39",
+        "title": "Save confirmation",
+        "layout": "applications",
+        "summary": "Design study: replace a receipt with concise feedback in the list context. Show confirmed server values without adding a receipt page; preserve filters and explain when a saved row no longer matches.",
+        "examples": [
+          {
+            "text": "La tarea ya no coincide con los filtros actuales.",
+            "title": "Tarea guardada"
+          },
+          {
+            "text": "Resultado sin confirmar + Recuperar resultado stays beside the affected task, including deletion. Do not style it as success.",
+            "title": "Uncertain result"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-40",
+        "title": "Task reference card",
+        "layout": "applications",
+        "summary": "Design study: adapt the rewards-card format into a small status reference. Give each status equal space; add no points, streaks, membership levels or completion incentives.",
+        "examples": [
+          {
+            "text": "Pendiente · En curso · Hecha",
+            "title": "Tres estados, una lista"
+          },
+          {
+            "text": "Use the lockup at top, three text-led status lines and Prioridad: Baja · Media · Alta beneath. Avoid progress bars and achievement symbols.",
+            "title": "Card hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-41",
+        "title": "Workspace sign",
+        "layout": "applications",
+        "summary": "Design study: adapt signage into a presentation workspace label, not a claim of physical premises. Use a large lockup, plain descriptor and generous clear space without arrows or invented addresses.",
+        "examples": [
+          {
+            "text": "Tareas personales",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Use ink lettering on a white panel with the green mark to the left. On a green panel, place the mark on its pale support.",
+            "title": "Sign composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-42",
+        "title": "Task website",
+        "layout": "applications",
+        "summary": "Design study: / is the only page. Open directly to the header, filters and compact list. Preserve text and status filters in the URL; use planned server routes and Turso, not a simulated local task store.",
+        "examples": [
+          {
+            "text": "Buscar tareas · Estado: Todos",
+            "title": "Nueva tarea"
+          },
+          {
+            "text": "Exactly three Ejemplo rows: Organizar la carpeta de documentos; Preparar la lista de la compra; Ordenar el escritorio. Never recreate deleted examples.",
+            "title": "Initial list"
+          },
+          {
+            "text": "POST /api/session opens the workspace; GET/POST /api/tasks lists or creates; PATCH/DELETE /api/tasks/[id] changes tasks. Add no registration page.",
+            "title": "Route boundaries"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-43",
+        "title": "Favicon",
+        "layout": "logo",
+        "summary": "Design study: reuse the exact mark in app/icon.svg and raster application icons. Keep a pale support surface, square canvas and all three strokes; never substitute a template icon or miniature wordmark.",
+        "examples": [
+          {
+            "text": "Gestiona tus tareas personales.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Preview the complete symbol at 16 and 32 px. Preserve its relative geometry and use the Spanish name as the browser title.",
+            "title": "Small-size treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-44",
+        "title": "Stationery",
+        "layout": "applications",
+        "summary": "Design study: use a small lockup at top left, an ink heading and restrained footer. Keep the page mostly white; the vertical guide may connect a heading to its content, never decorate every paragraph.",
+        "examples": [
+          {
+            "text": "Atlas Tareas · Título, estado y prioridad.",
+            "title": "Notas de trabajo"
+          },
+          {
+            "text": "Align the lockup, heading and body to one margin. Use 600 for headings and 400 for copy; put page numbering outside the logo clear space.",
+            "title": "Document layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-45",
+        "title": "Business cards",
+        "layout": "applications",
+        "summary": "Design study: make an identity card without fabricated people or contact details. Use the lockup on one side and a factual product descriptor on the other; omit URLs and QR codes without a supplied destination.",
+        "examples": [
+          {
+            "text": "Herramienta de tareas personales en español.",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Front: green mark and ink name on white. Reverse: short descriptor on pale paper, aligned to the same margin.",
+            "title": "Two-sided balance"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-46",
+        "title": "Task prompt card",
+        "layout": "applications",
+        "summary": "Design study: adapt the gift-card format into a non-commercial writing prompt. Show one title line and the available task choices; include no monetary value, redemption code or sharing claim.",
+        "examples": [
+          {
+            "text": "Escribe un título y elige su estado y prioridad.",
+            "title": "¿Qué tarea quieres organizar?"
+          },
+          {
+            "text": "Give the title line most of the card width. Place Pendiente and Media beneath as example defaults, with a small lockup in the corner.",
+            "title": "Prompt layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-47",
+        "title": "Document seal",
+        "layout": "applications",
+        "summary": "Design study: adapt a packaging seal into a square document label. Use the exact mark on pale paper with clear space; treat it as identification, never as proof of security, approval or completed work.",
+        "examples": [
+          {
+            "text": "Estudio de diseño",
+            "title": "Atlas Tareas"
+          },
+          {
+            "text": "Center the unchanged three-stroke mark in a square label. If the name is needed, set it separately below; add no circular certification text.",
+            "title": "Seal construction"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-48",
+        "title": "User support",
+        "layout": "applications",
+        "summary": "Design study: place help beside the affected row or form, not only in a toast. Distinguish empty lists, errors, conflicts and uncertain outcomes; show a clear recovery action without promising a support service.",
+        "examples": [
+          {
+            "text": "Recupera el resultado de la operación anterior antes de enviar más cambios para esta tarea.",
+            "title": "Resultado sin confirmar"
+          },
+          {
+            "text": "Esta tarea ha cambiado. Show Tu borrador, Último confirmado and Versión actual, followed by Revisar and Sobrescribir explícitamente.",
+            "title": "Conflicting edits"
+          },
+          {
+            "text": "Aún no hay tareas → Nueva tarea. No hay tareas que coincidan → Limpiar filtros. Keep both messages in the list region.",
+            "title": "Empty and filtered states"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-49",
+        "title": "Thank you",
+        "layout": "cover",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "text": "Atlas Tareas",
+            "title": "Todo empieza con una tarea"
+          },
+          {
+            "text": "Supplied Atlas Tareas plan, palette and identity brief; supplied IBM Plex Sans font resources in weights 400, 500, 600 and 700. No public identity research supplied.",
+            "title": "Sources"
+          },
+          {
+            "text": "Original three-stroke mark and proposed applications prepared for this project. Preserve the exact business name, Spanish interface copy and six supplied color tokens.",
+            "title": "Colophon"
+          }
+        ]
+      }
+    ],
+    "voice": "Breve, directa y tranquila. Usar verbos claros y estados honestos: Nueva tarea, Guardar cambios, Resultado sin confirmar y Recuperar resultado. Evitar lenguaje comercial y explicaciones técnicas salvo cuando sean necesarias para resolver una incidencia.",
+    "colors": [
+      {
+        "hex": "#F5F5F2",
+        "name": "Quiet Paper",
+        "role": "background"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "Clear Desk",
+        "role": "surface"
+      },
+      {
+        "hex": "#276044",
+        "name": "Steady Green",
+        "role": "accent"
+      },
+      {
+        "hex": "#232823",
+        "name": "Work Ink",
+        "role": "text"
+      },
+      {
+        "hex": "#232823",
+        "name": "Secondary Ink",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><rect x=\"24\" y=\"104\" width=\"64\" height=\"12\" fill=\"#276044\"/><rect x=\"48\" y=\"74\" width=\"64\" height=\"12\" fill=\"#276044\"/><rect x=\"72\" y=\"44\" width=\"64\" height=\"12\" fill=\"#276044\"/></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-4EG2AE/brand/fonts/6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16",
+        "weight": "400",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-4EG2AE/brand/fonts/6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742",
+        "weight": "500",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-4EG2AE/brand/fonts/5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21",
+        "weight": "600",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf"
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-4EG2AE/brand/fonts/e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100",
+        "weight": "700",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf"
+      }
+    ],
+    "positioning": "Herramienta personal en español que abre directamente al trabajo: una lista compacta, edición contextual y persistencia fiable sin cuentas ni configuración compleja.",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#232823",
+  "accentColor": "#276044",
+  "fontHeading": "IBM Plex Sans",
+  "borderRadius": "0.25rem",
+  "logoImageUrl": null,
+  "primaryColor": "#276044",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F5F5F2"
+}
